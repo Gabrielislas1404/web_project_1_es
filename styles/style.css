@@ -42,7 +42,7 @@
   width: 388px;
   position: absolute;
   left: 64px;
-  bottom: 30px;
+  bottom: 40px;
   z-index: 2;
 }
 
@@ -142,6 +142,7 @@
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
+  margin-top: 0;
   margin-bottom: 60px;
 }
 
@@ -168,6 +169,7 @@
   font-size: 24px;
   font-weight: bold;
   margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .table__text {
@@ -274,6 +276,7 @@
   position: absolute;
   right: -124px;
   top: 0;
+  transform: rotateZ(356deg);
 }
 
 .footer {
