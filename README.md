@@ -2,7 +2,7 @@
 
 ### Esta es la versión más reciente del proyecto Web_project_1_es.
 
-:fa-github: :fa-github: :fa-github:
+💻 💻 💻
 
 #### Este es mi primer proyecto en el bootcamp de desarrollo web en "Tripleten". _Realizado con HTML y CSS._
 
@@ -16,4 +16,4 @@
 
 ###### La visualización de algunos elementos podría variar dependiendo el navegador y versión que se utilice ya que el proyecto aún no cuenta con los prefijos necesarios para una mejor experiencia, lo que pretendo arreglar en un futuro, así como añadir un formulario para demostrar las habilidades que he desarrollado respecto al tema.
 
-:fa-linkedin-square: Gabriel Islas García
+Gabriel Islas García
